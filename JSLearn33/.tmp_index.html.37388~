@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>下拉</title>
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel='stylesheet' type='text/css' href='index.css'/>
+<script type="text/javascript" src='tool.js'></script>
+<script type="text/javascript" src='base.js'></script>
+ <script type="text/javascript" src='index.js'></script>
+
+<script type="text/javascript" src='base_animate.js'></script>
+<script type="text/javascript" src='base_drag.js'></script>
+</head>
+
+
+<body>
+	<!--标题栏-->
+	<div id='header' >
+		<div class='logo'><img src="images/logo.gif" alt=''/></div>
+		
+		<div class='member'>个人中心
+			<ul class='member_ul'>
+				<li><a href=''>设置</a></li>
+				<li><a href=''>帮助</a></li>
+				<li><a href=''>换肤</a></li>
+				<li><a href=''>退出</a></li>
+			</ul>
+		</div>
+		
+		
+		<div class='login'>登陆</div>
+	</div>
+	<!--登陆窗口-->
+	<div id='login'>
+		<h2>网站登陆 <img class='close' src='images/close.png'></h2>
+		<div class='user'>账 号：<input type='text' name='user' class='text'/></div>
+		<div class='pass'>密 码：<input type='password' name='pass' class='text'/></div>
+		<div class='button'><input type='button' class='submit' value=''/></div>
+		<div class='other'><a href=''>注册新用户</a>|<a href=''>忘记密码</a></div>
+	</div>
+	
+	<!--锁屏背景-->
+	<div id='screen'></div>
+	
+	<!--滑动导航-->
+	<div id='nav'>
+		<ul class='about'>
+			<li><a href='http://www.baidu.com'>s</a></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			
+		</ul>
+		<ul class="black">
+			<li>首页</li>
+			<li>博文列表</li>
+			<li>精彩相册</li>
+			<li>动感音乐</li>
+			<li>关于我</li>
+		</ul>
+		<div class='nav_bg'>
+			<ul class="white">
+				<li>首页</li>
+				<li>博文列表</li>
+				<li>精彩相册</li>
+				<li>动感音乐</li>
+				<li>关于我</li>
+			</ul>
+		</div>
+	</div>
+	
+<!--分享兰-->
+
+	<div id='share'>
+		<h2>分享到</h2>
+		<ul>
+			<li><a href="###" class="a">一键分享</a></li>
+			<li><a href="###" class="b">新浪微博</a></li>
+			<li><a href="###" class="c">人人网</a></li>
+			<li><a href="###" class="d">百度相册</a></li>
+			<li><a href="###" class="e">腾讯朋友</a></li>
+			<li><a href="###" class="f">豆瓣网</a></li>
+			<li><a href="###" class="g">百度新首页</a></li>
+			<li><a href="###" class="h">和讯微博</a></li>
+			<li><a href="###" class="i">QQ 空间</a></li>
+			<li><a href="###" class="j">百度搜藏</a></li>
+			<li><a href="###" class="k">腾讯微博</a></li>
+			<li><a href="###" class="l">开心网</a></li>
+			<li><a href="###" class="m">百度贴吧</a></li>
+			<li><a href="###" class="n">搜狐微博</a></li>
+			<li><a href="###" class="o">QQ 好友</a></li>
+			<li><a href="###" class="p">更多...</a></li>
+		</ul>
+		<div class='share_footer'><a href=''>百度分享</a><span></span></div>
+	</div>
+<!--
+
+<div id='test'>动画</div>
+<div id='test1'>动画</div>
+
+-->
+
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+<p>1</p>
+
+</body>
+</html>
